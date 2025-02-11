@@ -1,7 +1,7 @@
 # API-integration
 
 
-*NAME* :Avula BHAVYA SRI
+*NAME* :Avula Bhavya Sri
 
 *Company* :CODETECH IT SOLUTIONS
 
